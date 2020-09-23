@@ -7,9 +7,9 @@
   org.clojure/data.json {:mvn/version "1.0.0"},
   nuid/credential
   {:git/url "https://github.com/nuid/credential.git",
-   :sha "5d777919214a6b30427a939b7917f04de9d06a7f"},
+   :sha "6debcefaf1d7239e5297843d8dc69cb917ca8e0c"},
   nuid/zk
   {:git/url "https://github.com/nuid/zk.git",
-   :sha "7d89c684fdd28d9313a1956fd5e371cbba0fd909"},
+   :sha "0d46b4e023e6fdd3cf85b791d51c233513e9cb52"},
   org.clojure/test.check {:mvn/version "1.0.0"}},
  :paths ["src"]}
